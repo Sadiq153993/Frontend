@@ -1,2 +1,3 @@
 
-<img width="1500" height="912" alt="login-page-example-the-cube-factory" src="https://github.com/user-attachments/assets/a4074e8d-8b9e-4e8c-8e25-31156c7eb39b" />
+
+![75fde0180462827 650b17265ad4c (1)](https://github.com/user-attachments/assets/5c4c545f-f300-495f-9029-0a53a0e51015)
